@@ -1,2 +1,2 @@
 # feastables
-General Cypress test suite for feastables.com
+A sample Cypress test suite for feastables.com
